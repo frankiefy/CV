@@ -1,4 +1,4 @@
-## Frankie Shaw
+## Franklin Shaw
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -32,17 +32,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Mander Portman Woodward College  (September 2015 to May 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- A-level: Physics(), Economics() and RS()
+- As-level : Maths()
+- EPQ: How did music follow and influence desegregation in America in the 20th Centuary ()
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Hawksmoor** (September 2015 to December 2015)    
+*Waiter/Runner*  
+  

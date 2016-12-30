@@ -42,6 +42,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Hawksmoor** (September 2015 to December 2015)    
+**Hawksmoor** (2015)    
 *Waiter/Runner*  
   

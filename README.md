@@ -1,6 +1,6 @@
-## Franklin Shaw
+## Frankie Shaw
 
-I am a full stack junior web developer recenlty graduated from Makers Academy. I joined Makers Academy at 18 (their youngest acceptable age) as a much better alternative to an university degree. The intensive 3 month course taught me how to solve problems with no prior knowledge, the important principles of coding and 
+I am a full stack junior web developer recenlty graduated from Makers Academy. I joined Makers Academy as a much better alternative to an university degree. The intensive 3 month course taught me how to solve problems with no prior knowledge, the important principles of coding and 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
@@ -31,6 +31,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Makersbnb](https://github.com/frankiefy/Makersbnb) | An AirBnB clone | Ruby On Rails |
+| [Steami](https://github.com/bvjones/Steami) | Steami is a single page Universal Javascript app built on the MERN stack that summarises a user's Steam profile. | MERN, Node, React |
+| [DevLinQ](https://github.com/pedrocastanheira77/devlinq) | A chrome extention and react app to organise your coding-related internet searches | Javascript, Node, React |
+
 
 ## Education
 
@@ -38,16 +44,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Jasmine, Mocha, Chai, own
 
-#### Mander Portman Woodward College  (September 2015 to May 2016)
+#### Mander Portman Woodward College  ('15-'16)
 
 - A-level: Physics(), Economics() and RS()
 - As-level : Maths()
-- EPQ: How did music follow and influence desegregation in America in the 20th Centuary ()
+- Extended Project Qualification: How did music follow and influence desegregation in America in the 20th Centuary ()
 
 #### Any other qualifications
 
@@ -56,3 +62,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Hawksmoor** (2015)    
 *Waiter/Runner*  
   
+## Intrests:

@@ -9,20 +9,28 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-
 - Experience: 3 group projects, including final project
 - Achievements: completely new to: chrome extention, single page app
 - Evidence: https://github.com/frankiefy/Makersbnb , https://github.com/pedrocastanheira77/devlinq , https://github.com/bvjones/Steami
 
-#### Logical Thinker
+#### Problem Solver
 
 My ability to extract seemingly big challenges into smaller tasks that are well defined and achievable has greatly improved my organisation and efficiency when working on projects at Makers Academy 
+
+- I achieved A during my work at B (job, or otherwise) I used
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Fast Learner
+
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise) I used
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
 
 ## Education
 

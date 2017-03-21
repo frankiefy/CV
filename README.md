@@ -1,6 +1,6 @@
 ## Franklin Shaw
 
-I am a full stack junior web developer recenlty graduated from Makers Academy. I joined Makers Academy at 18 (their youngest acceptable age) as a much better alternative to an university degree. The intensive 3 month course taught me about structured work, principles of coding, 
+I am a full stack junior web developer recenlty graduated from Makers Academy. I joined Makers Academy at 18 (their youngest acceptable age) as a much better alternative to an university degree. The intensive 3 month course taught me how to solve problems with no prior knowledge, the important principles of coding and 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills

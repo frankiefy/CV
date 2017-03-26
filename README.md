@@ -9,7 +9,7 @@ I am a fast learner, I am never stuck on a bug for long, and I approach everythi
 
 #### Group Work
 
-One of my favorite things about Makers Academy is that I met so many people that I otherwise would not have. Out of all my work at Makers, I am the most proud of my group work. Turning a simple idea into user stories and acceptance criteria has helped me be more efficient and focused in groups, and furthered my desire to just keep coding! Group Projects: https://github.com/frankiefy/Makersbnb , https://github.com/pedrocastanheira77/devlinq , https://github.com/bvjones/Steami
+One of my favorite things about Makers Academy is that I met so many people that I otherwise would not have. Out of all my work at Makers, I am the most proud of my group work. Turning a simple idea into user stories and acceptance criteria has helped me be more efficient and focused in groups, and furthered my desire to just keep coding! Group Projects: [Makersbnb](https://github.com/frankiefy/Makersbnb) , [DevLinQ](https://github.com/pedrocastanheira77/devlinq) , [Steami](https://github.com/bvjones/Steami)
 
 #### Problem Solver
 

@@ -52,7 +52,6 @@ As a junior developer I believe the speed at which I learn new skills is importa
   
 ## Interests:
 
-- Guitar
 - Cycling
 - Music
-- 
+- Guitar

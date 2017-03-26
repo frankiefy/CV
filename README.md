@@ -19,10 +19,8 @@ My ability to extract seemingly big challenges into smaller tasks that are well 
 
 One of my proudest achievements at Makers Academy was to learn Javascript and build a project in 5 days
 
-- I achieved A during my work at B (job, or otherwise) I used
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
@@ -36,11 +34,11 @@ One of my proudest achievements at Makers Academy was to learn Javascript and bu
 #### Makers Academy (03/01/17 to 24/03/17)
 
 - Curiosity and hungry passion for code
-- Independent learner and problem-solver
+- Independent learner, problem-solver, knowledge worker
 - OOP, TDD, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js
-- Rspec, Jasmine, Mocha, Chai, own
+- Ruby, Rails, Sinatra, Javascript, Node.js, React, PostgreSQL,
+- Rspec, Jasmine, Capybara, Mocha, Chai, own
 
 #### Mander Portman Woodward College  ('15-'16)
 

@@ -25,8 +25,9 @@ As a junior developer I believe the speed at which I can learn new skills is ver
 |---        |---         |---           |
 | [Makersbnb](https://github.com/frankiefy/Makersbnb) | An AirBnB clone | Ruby On Rails |
 | [Steami](https://github.com/bvjones/Steami) | Steami is a single page Universal Javascript app built on the MERN stack that summarises a user's Steam profile. | MERN, Node, React |
-| [DevLinQ](https://github.com/pedrocastanheira77/devlinq) | A chrome extention and react app to organise your coding-related internet searches | Javascript, Node, React |
+| [DevLinQ](https://github.com/pedrocastanheira77/devlinq) | A chrome extention and react app to improve and add to the google search results for programming-related searches | Javascript, Node, React |
 
+Universal Javascript app that allows to user to authenticate via Steam, and then summarises their profile, games and achievements by use of the Steam Web API. I was the project owner having pitched the idea at the Makers Academy. I introduced my team mates to Node, Express and MongoDB, having previously taught myself the basics over a single weekend. We then learnt and implemented React from scratch together, as well as the associated testing and build technologies. This was all achieved in one week.
 
 ## Education
 

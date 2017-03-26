@@ -9,21 +9,15 @@ I am a fast learner, I am never stuck on a bug for long, and I approach everythi
 
 #### Group Work
 
-One of my favorite things about Makers Academy is that I met so many people that I otherwise would not have. Out of all my work at Makers, I am the most proud of my group work. Turning a simple idea into user stories and acceptance criteria has helped me be more efficient in groups and focused and furthered my desire to just keep coding! 
-https://github.com/frankiefy/Makersbnb , https://github.com/pedrocastanheira77/devlinq , https://github.com/bvjones/Steami
+One of my favorite things about Makers Academy is that I met so many people that I otherwise would not have. Out of all my work at Makers, I am the most proud of my group work. Turning a simple idea into user stories and acceptance criteria has helped me be more efficient and focused in groups, and furthered my desire to just keep coding! Group Projects: https://github.com/frankiefy/Makersbnb , https://github.com/pedrocastanheira77/devlinq , https://github.com/bvjones/Steami
 
 #### Problem Solver
 
-My ability to extract seemingly big challenges into smaller tasks that are well defined and achievable has greatly improved my organisation and efficiency when working on projects at Makers Academy 
-
-- I achieved A during my work at B (job, or otherwise) I used
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My ability to extract seemingly big challenges into smaller tasks that are well defined and achievable has greatly improved my organisation and efficiency when working on projects at Makers Academy. When handling smaller problems such as errors and bugs I aim to employ the best possible debugging processes. It's due to this I have been able to push the boundries of how far I can go into the unkown with my work and still come out the other side with a great result! Eg. [DevLinQ chrome extention](https://github.com/pedrocastanheira77/devlinq)
 
 #### Fast Learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+One of my proudest achievements at Makers Academy was to learn Javascript and build a project in 5 days
 
 - I achieved A during my work at B (job, or otherwise) I used
 - I contributed to the growth of X while doing Y (job, or otherwise)

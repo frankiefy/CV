@@ -17,8 +17,7 @@ My ability to extract seemingly big challenges into smaller tasks that are well 
 
 #### Fast Learner
 
-One of my proudest achievements at Makers Academy was to learn Javascript, Jquery, AJAX and APIs for a project and build it, in 5 days [Thermostat](https://github.com/frankiefy/Thermo).
-
+As a junior developer I believe the speed at which I can learn new skills is very important. One of my proudest achievements at Makers Academy was to learn Javascript, Jquery, Jasmine, AJAX and APIs for a project and build it, in 5 days: [Thermostat](https://github.com/frankiefy/Thermo). I have become a faster learner due to Makers Academy teaching me to be a knowledge worker; to know how to find the answer quickly and precisely with no starting information.
 
 
 
@@ -42,11 +41,9 @@ One of my proudest achievements at Makers Academy was to learn Javascript, Jquer
 
 #### Mander Portman Woodward College  ('15-'16)
 
-- A-level: Physics(), Economics() and RS()
-- As-level : Maths()
-- Extended Project Qualification: How did music follow and influence desegregation in America in the 20th Centuary ()
-
-#### Any other qualifications
+- A-level: Physics, Economics and RS
+- As-level : Maths
+- Extended Project Qualification: How did music follow and influence desegregation in America in the 20th Centuary?
 
 ## Experience
 
@@ -54,3 +51,8 @@ One of my proudest achievements at Makers Academy was to learn Javascript, Jquer
 *Waiter/Runner*  
   
 ## Intrests:
+
+- Guitar
+- Cycling
+- Skateboarding
+- Live Music

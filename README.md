@@ -17,7 +17,7 @@ My ability to extract seemingly big challenges into smaller tasks that are well 
 
 #### Fast Learner
 
-One of my proudest achievements at Makers Academy was to learn Javascript and build a project in 5 days
+One of my proudest achievements at Makers Academy was to learn Javascript, Jquery, AJAX and APIs for a project and build it, in 5 days [Thermostat](https://github.com/frankiefy/Thermo).
 
 
 

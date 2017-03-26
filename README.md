@@ -1,7 +1,7 @@
 ## Frankie Shaw
 
-I am a full stack junior web developer, proficient in Javascript, Ruby, Test Driven Development, Object Orientated Design and both front-end and back-end development. I recently graduated from Makers Academy. I chose not to go to university and to instead focus on something that I have a genuine interest in and that I could see myself doing for the rest of my life. From learning the basics to my final project I've enjoyed programming more than any other work I have previously done. Software development has given me the opportunity no other has to be creative and see my work as useful and important in the world.
-I am looking for a job where the work and my co-workers will help expand my knowledge while successfully delivering value for my employer. I think it is very important to be in a workspace where I would be given clear instructions on what is needed from me while also having the freedom to choose how I reach those goals. As a junior developer I value the understanding employers have that while I may not know everything right now, I am more than willing to find out!
+I am a full stack junior web developer, proficient in Javascript, Ruby, Test Driven Development, Object Orientated Design and both front-end and back-end development. I recently graduated from Makers Academy. I chose not to go to university and to instead focus on something in which both I have a genuine interest and could see myself doing for the rest of my life. From learning the basics to my final project, I've enjoyed programming more than any other work. Software development has given me the opportunity no other has to be creative and to see my work as useful and important in the world.
+I am looking for a job where the work and my co-workers will help expand my knowledge while successfully delivering value for my employer and their clients. I think it is very important to be in a workspace where I would be given clear instructions on what is needed from me while also having the freedom to choose how I reach those goals. As a junior developer, I value the understanding employers have that, while I may not know everything right now, I am more than willing to find out!
 
 ## Skills
 
@@ -13,11 +13,11 @@ One of my favourite things about Makers Academy is that I met so many people tha
 
 #### Problem Solver
 
-My ability to extract seemingly big challenges into smaller tasks that are well defined and achievable has greatly improved my organisation and efficiency when working on projects at Makers Academy. When handling smaller problems such as errors and bugs I aim to employ the best possible debugging processes. It's due to this I have been able to push the boundaries of how far I can go into the unknown with my work and still come out the other side with a great result! Eg. [DevLinQ chrome extension](https://github.com/pedrocastanheira77/devlinq)
+My ability to convert seemingly big challenges into smaller tasks that are well defined and achievable has greatly improved my organisation and efficiency when working on projects at Makers Academy. When handling smaller problems, such as errors and bugs, I aim to employ the best possible debugging processes. It's due to this I have been able to push the boundaries of how far I can go into the unknown with my work and still come out the other side with a great result! Eg. [DevLinQ chrome extension](https://github.com/pedrocastanheira77/devlinq)
 
 #### Fast Learner
 
-As a junior developer I believe the speed at which I can learn new skills is very important. One of my proudest achievements at Makers Academy was to learn Javascript, Jquery, Jasmine, AJAX and APIs for a project and build it, in 5 days: [Thermostat](https://github.com/frankiefy/Thermo). I have become a faster learner due to Makers Academy teaching me to be a knowledge worker; to know how to find the answer quickly and precisely with no starting information.
+As a junior developer I believe the speed at which I learn new skills is important. One of my proudest achievements at Makers Academy was to learn Javascript, Jquery, Jasmine, AJAX and APIs for a project and build it in only 5 days: [Thermostat](https://github.com/frankiefy/Thermo). I have become a faster learner due to Makers Academy teaching me to be a knowledge worker; to know how to find the answer quickly and precisely with no starting information.
 
 
 | Project   | Description | Technologies |
@@ -42,6 +42,7 @@ As a junior developer I believe the speed at which I can learn new skills is ver
 
 - A-level: Physics, Economics and RS
 - As-level: Maths
+- iGCSE: 11
 - Extended Project Qualification: How did music follow and influence desegregation in America in the 20th Century?
 
 ## Experience
@@ -53,5 +54,5 @@ As a junior developer I believe the speed at which I can learn new skills is ver
 
 - Guitar
 - Cycling
-- Skateboarding
-- Live Music
+- Music
+- 

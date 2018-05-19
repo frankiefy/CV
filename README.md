@@ -47,11 +47,22 @@ As a junior developer I believe the speed at which I learn new skills is importa
 
 ## Experience
 
+**worldflow** (24/04/17 - current)
+*junior developer*
+- Fin-tech with a small office and an international client portfolio
+- Desgin and implementation of investment research web & email distribution platforms
+- Working for solutions that are responsivley designed and intuitive to a clients specific needs
+- Experience working solo from a client's request to design new features in a modular way which can easily be used for other clients/requests
+- Experience working with both back-end and front-end senior-developers in a 3-man team to bring our clients new features in a time estimated and scope controlled manner
+- Heavily version and time controlled coding for compliance with financial contracts
+- Experience in direct contact with client throughout project, being involved with clients feature decisions, bringing new design ideas to clients to try for their platform, day-to-day maintanince/requests of multiple sites and servers
+- Javascript, jQueary, HTML, CSS, mySQL, Python and Java
+
 **Hawksmoor** (2015)    
 *Waiter/Runner*  
   
 ## Interests:
 
 - Cycling
-- Music
+- Skateboarding
 - Guitar
